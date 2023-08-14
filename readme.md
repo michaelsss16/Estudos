@@ -1,11 +1,13 @@
 # Curso de introdução ao SQL - Alura
-Curso iniciado para aprofundar na análise de demandas referentes aos bancos de dados utilizados durante trabalho.
 
-## Tecnologias utilizadas:
+Curso iniciado para aprimorar os conhecimentos em bocos de dados.
+
+## Tecnologias utilizadas
 - SQL Server 2022
 - SSMS
 
 ## Tópicos
+
 1. Introdução ao SQL
 2.
 3.
@@ -13,7 +15,7 @@ Curso iniciado para aprofundar na análise de demandas referentes aos bancos de 
 
 ## Descrição dos conteúdos abordados
 
-### 1. Introdução ao SQL.
+### 1. Introdução ao SQL
 
 - Criação de base de dados
 - Criação, atualização e deleção de tabelas
@@ -23,7 +25,9 @@ Curso iniciado para aprofundar na análise de demandas referentes aos bancos de 
 ### 2. 
 
 ## SSMS com Leitores de tela
-###Atalhos importantes:
+O SSMS apresenta boa acessibilidade para uso com leitores de tela, sendo preciso dominar alguns atalhos importantes.
+
+### Atalhos importantes
 
 |Descrição|Atalho|
 |--|--|
